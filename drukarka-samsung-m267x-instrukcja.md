@@ -14,43 +14,61 @@ Wszystko robisz myszką i klawiaturą. Czas: 10–15 minut (druk), +5 minut (ska
 | Element | Wartość |
 |---|---|
 | Drukarka | Samsung **M267x 287x Series** (MFP — drukuje i skanuje) |
-| Adres IP w sieci | **192.168.1.50** (sprawdź aktualny — patrz krok 1) |
-| Nazwa sieciowa urządzenia | `SEC0015A1B2C3` |
-| Numer seryjny | `XXXXXXXXXXXXXXX` |
-| Adres MAC (do rezerwacji DHCP) | `00:15:99:AA:BB:CC` |
+| Adres IP w sieci | **192.168.50.17** — to jest IP tej drukarki, wpisz je w kroku 3.3 |
+| Nazwa sieciowa urządzenia | `SEC001599DD4762` |
+| Numer seryjny | `ZD0NBJDD30066P` |
+| Adres MAC (do rezerwacji DHCP) | `00-15-99-DD-47-62` |
+| Brama / router | `192.168.50.1` |
+| Firmware / NIC | `V3.00.01.12` / `NIC V6.01.00` |
 | Komputer docelowy | Windows 10 lub 11, konto z uprawnieniami administratora |
 | Sieć | ten sam router/Wi-Fi co drukarka |
 
 Drukarka i komputer **muszą być w tej samej sieci lokalnej**. Jeśli komputer łączy się przez VPN
-albo jest w innej podsieci (np. 192.168.0.x przy drukarce 192.168.1.x), instalacja po IP nie zadziała.
+albo jest w innej podsieci (np. 192.168.1.x przy drukarce 192.168.50.x), instalacja po IP nie zadziała.
+
+> **Stan na 2026-11-09 (sprawdzone w sieci domowej):** drukarka odpowiada na `192.168.50.17`,
+> ICMP 5–16 ms; otwarte porty **80** (SyncThru, HTTP 200), **9100** (druk RAW), **515** (LPR),
+> **631** (IPP); port 443 zamknięty. SNMP zwraca model `Samsung M267x 287x Series`,
+> nazwę `SEC001599DD4762` i S/N `ZD0NBJDD30066P`. Na komputerze `KomputerAlunia` istnieje już
+> kolejka `Samsung M267x 287x Series` na porcie `Samsung_M267x_9100` (RAW, 9100), którego
+> `HostName` w rejestrze = `192.168.50.17`.
 
 ---
 
 ## 1. Ustal aktualny adres IP drukarki
 
-Adres `192.168.1.50` był aktualny w dniu konfiguracji, ale **może się zmienić** po restarcie routera,
-bo drukarka nie ma rezerwacji DHCP. Trzy sposoby sprawdzenia — wystarczy jeden:
+Adres **192.168.50.17** jest aktualny w dniu konfiguracji, ale **może się zmienić** po restarcie
+routera, bo drukarka nie ma rezerwacji DHCP. Trzy sposoby sprawdzenia — wystarczy jeden:
 
 **A. Panel drukarki (najpewniejszy).** Na urządzeniu: `Menu` → `Network` → `Network Config`
 (albo `Print Network Configuration`). Wydrukuje się/pojawi się strona z sekcją `TCP/IP` i pozycją
 `IP Address`.
 
-**B. Panel administracyjny routera.** Otwórz w przeglądarce `192.168.1.1`, zaloguj się,
+**B. Panel administracyjny routera.** Otwórz w przeglądarce `192.168.50.1`, zaloguj się,
 wejdź w listę klientów DHCP i szukaj:
-- nazwy hosta `SEC0015A1B2C3`, albo
-- adresu MAC `00:15:99:AA:BB:CC`.
+- nazwy hosta `SEC001599DD4762`, albo
+- adresu MAC `00-15-99-DD-47-62`.
 
 **C. Test z komputera.** Otwórz `Wiersz polecenia` (Win+R → `cmd`) i wpisz:
 
 ```
-ping 192.168.1.50
+ping 192.168.50.17
 ```
 
-Odpowiedzi `Odpowiedź z 192.168.1.50: bajtów=32 czas<1ms` = adres aktualny i komputer go widzi.
+Odpowiedzi `Odpowiedź z 192.168.50.17: bajtów=32 czas<1ms` = adres aktualny i komputer go widzi.
 `Upłynął limit czasu oczekiwania` albo `Host nieosiągalny` = adres się zmienił albo sieć nie przepuszcza.
 
+**D. Sprawdzenie portu druku (mocniejsze niż ping).** W `cmd`:
+
+```
+powershell Test-NetConnection 192.168.50.17 -Port 9100
+```
+
+`TcpTestSucceeded : True` przy porcie 9100 = na tym adresie naprawdę stoi drukarka, a nie inny host.
+
 > **Zrób to od razu:** poproś osobę z dostępem do routera o **rezerwację DHCP** dla MAC
-> `00:15:99:AA:BB:CC`. Bez tego IP może się zmienić i drukarka „zniknie" z komputera.
+> `00-15-99-DD-47-62` (docelowo `192.168.50.17`). Bez tego IP może się zmienić i drukarka
+> „zniknie" z komputera — port w Windows trzyma adres IP, nie nazwę.
 
 ---
 
@@ -111,7 +129,7 @@ W rozpakowanym katalogu uruchom `Setup.exe` (prawym → **Uruchom jako administr
 1. Zaakceptuj umowę.
 2. Wybierz typ połączenia **Sieć / Network** (nie USB).
 3. Kreator powinien sam znaleźć drukarkę po sieci i pokazać ją jako `Samsung M267x 287x Series`
-   (adres `192.168.1.50`, nazwa `SEC0015A1B2C3`).
+   (adres `192.168.50.17`, nazwa `SEC001599DD4762`).
 4. Zaznacz ją, kliknij **Dalej** i dokończ instalację.
 5. Na końcu zaznacz **wydruk strony testowej**.
 
@@ -128,8 +146,10 @@ To jest ścieżka awaryjna i zarazem najbardziej przewidywalna.
    **„Nie widzę mojej drukarki na liście"** (Win 11: **Dodaj ręcznie**).
 4. Wybierz **Dodaj drukarkę przy użyciu adresu IP lub nazwy hosta** → **Dalej**.
 5. Typ urządzenia: **Urządzenie TCP/IP** → **Dalej**.
-6. **Nazwa hosta lub adres IP:** `192.168.1.50` → **Dalej**
-   (pole „Nazwa portu" wypełni się samo, np. `IP_192.168.1.50`).
+6. **Nazwa hosta lub adres IP:** `192.168.50.17` → **Dalej**
+   (pole „Nazwa portu" wypełni się samo, np. `IP_192.168.50.17`; na obecnej maszynie port
+   nazywa się `Samsung_M267x_9100` i to też jest poprawne — liczy się `HostName = 192.168.50.17`
+   i `PortNumber = 9100`, protokół **RAW**).
 7. Gdy Windows zapyta o sterownik, kliknij **Dysk... / Have Disk** i wskaż plik:
 
 ```
@@ -155,7 +175,7 @@ Wróć do kroku 3.3, ale w punkcie 7 nie wskazuj INF, tylko wybierz z listy
 
 **Kontrola twarda (bez patrzenia na wydruk):** na panelu drukarki sprawdź licznik stron
 (`Menu` → `System Setup` → `Report`/`Usage`) — powinien wzrosnąć o 1. Jeśli wolisz cyfrowo,
-wejdź w przeglądarce na `http://192.168.1.50` (SyncThru Web Service) i porównaj licznik
+wejdź w przeglądarce na `http://192.168.50.17` (SyncThru Web Service) i porównaj licznik
 w sekcji informacji o urządzeniu przed i po wydruku.
 
 **Test z aplikacji:** otwórz Notatnik, wpisz `test 1 2 3`, `Ctrl+P`, wybierz
@@ -220,7 +240,7 @@ to najczęstsza przyczyna.
 | Kreator Samsunga nie widzi drukarki | blokada rozgłaszania w sieci | użyj kroku 3.3 (instalacja po IP) |
 | „Nie można znaleźć sterownika" przy porcie TCP/IP | nie wskazano INF | **Dysk...** → `C:\SamsungM267x\SPL_PCL\ssa6m.inf` |
 | Wydruk idzie, ale strony są puste/krzaczki | zły język druku (PCL vs SPL) | usuń drukarkę, powtórz 3.3 z pliku `ssa6m.inf` z katalogu `SPL_PCL` |
-| Drukarka „offline" po restarcie routera | brak rezerwacji DHCP | ustaw rezerwację dla MAC `00:15:99:AA:BB:CC`, potem popraw port na nowy IP |
+| Drukarka „offline" po restarcie routera | brak rezerwacji DHCP | ustaw rezerwację dla MAC `00-15-99-DD-47-62`, potem popraw port na nowy IP |
 | NAPS2 nie widzi skanera | wersja 64-bitowa | odinstaluj, zainstaluj `naps2-7.4.3-win-x86.msi` |
 | Skanowanie wisi na „Starting scan" | sterownik wymaga pulpitu (dotyczy pracy zdalnej/usług) | uruchom NAPS2 normalnie z pulpitu, nie jako usługa |
 | Skan jest czarny/pusty | dokument na szybie złą stroną | kartka stroną zadrukowaną **do dołu** |
@@ -229,10 +249,11 @@ to najczęstsza przyczyna.
 
 ## 7. Wersja skrócona (dla kogoś, kto wie, co robi)
 
-1. `ping 192.168.1.50` — potwierdź, że drukarka odpowiada.
+1. `ping 192.168.50.17` (i dla pewności `Test-NetConnection 192.168.50.17 -Port 9100`) —
+   potwierdź, że drukarka odpowiada.
 2. Pobierz ZIP sterownika (22 049 300 B, MD5 `D36F00E804CD10F30B5D7412BD117025`) i rozpakuj.
 3. Uruchom `Setup.exe` jako administrator → **Sieć** → wybierz `Samsung M267x 287x Series`.
-   Gdyby nie znalazł: Ustawienia → Drukarki → **Dodaj ręcznie → TCP/IP** → `192.168.1.50`
+   Gdyby nie znalazł: Ustawienia → Drukarki → **Dodaj ręcznie → TCP/IP** → `192.168.50.17`
    → **Dysk...** → `SPL_PCL\ssa6m.inf`.
 4. Drukuj stronę testową, sprawdź, że licznik stron urządzenia wzrósł o 1.
 5. Skaner: zainstaluj pakiet Scanner (27 492 824 B), potem **NAPS2 7.4.3 x86** — 64-bitowe
@@ -247,7 +268,7 @@ Jeśli komputer docelowy ma Linuksa, nie instaluj sterowników Samsunga — uży
 ```
 sudo apt install cups printer-driver-splix
 # potem w przeglądarce: http://localhost:631 → Administration → Add Printer
-#   Device: AppSocket/HP JetDirect → socket://192.168.1.50:9100
+#   Device: AppSocket/HP JetDirect → socket://192.168.50.17:9100
 #   Make: Samsung → Model: Samsung M267x 287x (lub najbliższy SPL)
 lp -d <nazwa_kolejki> /usr/share/cups/data/testprint
 ```
@@ -259,5 +280,8 @@ i pakietu backendu Samsung, jeśli jest dostępny w dystrybucji.
 ---
 
 *Dokument opracowany na podstawie rzeczywistej konfiguracji: wydruk potwierdzony licznikiem sprzętowym
-3987 → 3988, skan potwierdzony obrazem strony w NAPS2. Adresy IP, MAC i numery seryjne w tym
-dokumencie są **przykładowe** — dla własnego urządzenia ustal je w kroku 1.*
+3987 → 3988, skan potwierdzony obrazem strony w NAPS2. Dane urządzenia w tym dokumencie są
+**rzeczywiste**, nie przykładowe: IP `192.168.50.17`, nazwa `SEC001599DD4762`,
+MAC `00-15-99-DD-47-62`, S/N `ZD0NBJDD30066P`, brama `192.168.50.1`.
+Sprawdzone ponownie 2026-11-09: ping OK, porty 80/515/631/9100 otwarte, 443 zamknięty,
+SNMP potwierdza model i numer seryjny. Jeśli Twój egzemplarz ma inny adres, ustal go krokiem 1.*
