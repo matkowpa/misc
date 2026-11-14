@@ -68,6 +68,8 @@ Silnik rezerwacyjny hotelu na 1–6.02.2027 daje pakiet **„TOP Winterangebot" 
 
 **Wniosek:** bezpośrednio wychodzi **466 € taniej** niż cena standardowa na Booking (204 € taniej niż cena Genius), a **dwupokojowy apartament Family Suite Tirol kosztuje mniej niż pokój dwuosobowy na Booking** — i nadal mieści się w budżecie 2 500 €.
 
+**Link do sprawdzenia:** [silnik hotelu z datami 1–6.02.2027](https://booking.hotel-alphof.at/?skd-checkin=2027-02-01&skd-checkout=2027-02-06&skd-total-rooms=1&skd-language-code=de&skd-adults=2&skd-children=1&skd-childage=13) — przy każdym z 5 pokoi, w bloku „TOP Winterangebot inkl. Verwöhnpension", stoi „**Kostenlose Stornierung bis Freitag, 01. Januar 2027**". W źródle strony: `"freeCancellationDeadline": "2027-01-01T23:59:00"` oraz `"guaranteePolicyCode": "FLEXIBEL"`. Ogólne warunki hotelu (inna treść: 20 € / 70% / 90%): [hotel-alphof.at/cancellations.html](https://www.hotel-alphof.at/cancellations.html).
+
 **Warunki anulacji (taryfa FLEXIBEL w silniku hotelu):** bezpłatnie do **1.01.2027, 23:59**; od 2.01 (30 dni przed przyjazdem) — **70%** kosztów; od 25.01 (7 dni przed) — **90%**. Bez zadatku, karta tylko jako gwarancja. Dla porównania Booking: bezpłatnie do 4.01.2027, potem **100%** wartości. Ogólna strona „Stornobedingungen" mówi natomiast o opłacie administracyjnej **20 €** przy anulacji do miesiąca przed przyjazdem — przy rezerwacji warto poprosić mailem o potwierdzenie warunków z silnika („kostenlose Stornierung bis 01.01.2027").
 
 Rezerwacja bezpośrednia daje dodatkowo: **gratis garaż podziemny**, 1× masaż Hydrojet, klapki, early check-in, korzystanie z wellness w dniu przyjazdu i wyjazdu, upominek na wyjazd.
