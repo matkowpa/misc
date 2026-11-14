@@ -73,7 +73,7 @@ Rezerwacja bezpośrednia daje dodatkowo: **gratis garaż podziemny**, 1× masaż
 **Do potwierdzenia mailem przed rezerwacją:**
 1. czy dziecko płaci 50 % od ceny **pakietowej** (a nie od cennika normalnego),
 2. czy przy 5 nocach doliczany jest **„Kurzaufenthalts-Zuschlag” od 10 €/os./dzień** (maks. +150 €),
-3. czy **Family Suite Tirol** jest realnie wolna na 1–6.02 (silnik ją pokazuje, ale to ostatnie dni ferii w Wiedniu).
+3. czy **Family Suite Tirol** jest realnie wolna na 1–6.02 (silnik ją pokazuje, ale termin wypada w okolicach ferii semesterowych w części Austrii).
 
 ---
 
