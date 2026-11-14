@@ -119,6 +119,25 @@ Te hotele pracują w rytmie sob–sob. Pięć nocy pon–sob trzeba negocjować 
 
 ---
 
+## Wyżywienie — co realnie dostajesz
+
+| | **Marcius** (Nassfeld) | **Alphof** (Alpbach) |
+|---|---|---|
+| Formuła | Halbpension | Verwöhnpension (3/4) |
+| Śniadanie | bogaty bufet | bufet 7:30–10:00, bio-kącik, świeże owoce |
+| Podwieczorek | — | **15:00–17:00**: zupa, słodkie, owoce; raz w tygodniu party Kaiserschmarrn albo tyrolska przekąska ze speckiem |
+| Kolacja | bufet + 4-daniowe menu, bufet sałatek | 18:30–21:00, 4-daniowe menu do wyboru + bufet sałatek |
+| Napoje | płatne osobno | płatne osobno |
+| Obiad | nie ma — na stoku | nie ma — na stoku |
+| Dodatkowo | restauracja à la carte i **pizzeria w hotelu** (otwarta też dla gości z zewnątrz) | kuchnia tyrolska, bez pizzerii |
+| Spa w cenie | basen + sauna | basen kryty + 2 strefy saun |
+| Dziecko | 6–14 lat: **−30%** | 5–14,9 lat: **−50%** |
+| Cena za osobę/noc (sezon 31.01–28.02) | 140 € Standard / 150 € Komfort | 168 € Bergidyll w pakiecie 4+1 |
+
+**Praktycznie:** Alphof daje więcej jedzenia w ciągu dnia (podwieczorek po nartach to realna oszczędność przy 13-latku), Marcius daje elastyczność — pizzeria i karta, jeśli dziecko nie chce bufetu. W obu napoje do kolacji są płatne, w obu nie ma obiadu (typowe w Austrii — je się na stoku).
+
+---
+
 ## Skipassy (5 dni, sezon główny)
 
 | Ośrodek | Dorosły | Młodzież | Dziecko | Razem 2+1 |
