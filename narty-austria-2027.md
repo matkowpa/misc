@@ -40,9 +40,40 @@ Najlepszy stosunek ceny do warunków — ok. 800–1 000 € taniej niż porówn
 | Odległość od wyciągu | **2,8 km do gondoli Wiedersbergerhornbahn** — skibus ok. 5 min (przystanek 400 m od hotelu). 270 m jest tylko do orczyka Böglerlift (dlatego Booking pokazuje „365 m”) |
 | Spa | basen kryty (Grander), 2 strefy saun, łaźnia parowa, infrared, solanka, taras panoramiczny 360° — **bez basenu zewnętrznego** |
 | Wyżywienie | Verwöhnpension: śniadanie, podwieczorek, 5-daniowa kolacja z bufetem sałatek |
-| Cena 5 nocy (2+1) | **2 618 €** (na Booking z Genius: **2 356 €**) |
+| Cena 5 nocy (2+1) | **≈ 2 153 € bezpośrednio** (pokój Bergidyll) / **2 618 € na Booking** (Genius: 2 356 €) |
 
 Na 1–6.02 w Alpbach zostały dosłownie **4 obiekty z half board** — warto rezerwować szybko.
+
+### Cennik własny Alphof vs Booking (sprawdzone 14.11.2026 w silniku hotelu)
+
+Silnik rezerwacyjny hotelu na 1–6.02.2027 daje pakiet **„TOP Winterangebot" (4 + 1 noc, −15 %)** na 5 nocy, z bezpłatnym anulowaniem do 1.01.2027. Ceny poniżej są za **2 dorosłych** — dziecko dolicza się osobno (−50 % wg cennika).
+
+| Pokój | Metraż / osoby | Pakiet 5 nocy (2 dorosłych) | Cennik normalny |
+|---|---|---|---|
+| Wohlfühlzimmer Alpbach | 23 m², max 2 | 1 480 € | 1 720 € |
+| Wohlfühlzimmer Fichtennestl | 28 m², 2–3 os. | 1 580 € | 1 820 € |
+| Wohlfühlzimmer Bergidyll | 2–4 os., taras | 1 680 € | 1 920 € |
+| **Family Suite Tirol** | **2 osobne sypialnie**, 2–4 os. | **1 780 €** | 2 020 € |
+| Junior Family Suite Schatzberg | 2–4 os. | 1 780 € | 2 020 € |
+
+**Dziecko:** 13 lat mieści się w widełkach 5–14,9 lat → **−50 %** (przy 2 pełnopłatnych), czyli 79–89 €/noc zależnie od pokoju.
+
+**Razem dla 2 + 1 (5 nocy, Verwöhnpension, + kurtaksa 3,50 €/os./noc):**
+
+| Pokój | Bezpośrednio w hotelu | Booking.com |
+|---|---|---|
+| Fichtennestl (28 m²) | **≈ 2 028 €** | brak |
+| Bergidyll | **≈ 2 153 €** | 2 618 € (Genius: 2 356 €) |
+| **Family Suite Tirol (2 sypialnie)** | **≈ 2 278 €** | brak w ofercie |
+
+**Wniosek:** bezpośrednio wychodzi **466 € taniej** niż cena standardowa na Booking (204 € taniej niż cena Genius), a **dwupokojowy apartament Family Suite Tirol kosztuje mniej niż pokój dwuosobowy na Booking** — i nadal mieści się w budżecie 2 500 €.
+
+Rezerwacja bezpośrednia daje dodatkowo: **gratis garaż podziemny**, 1× masaż Hydrojet, klapki, early check-in, korzystanie z wellness w dniu przyjazdu i wyjazdu, upominek na wyjazd.
+
+**Do potwierdzenia mailem przed rezerwacją:**
+1. czy dziecko płaci 50 % od ceny **pakietowej** (a nie od cennika normalnego),
+2. czy przy 5 nocach doliczany jest **„Kurzaufenthalts-Zuschlag” od 10 €/os./dzień** (maks. +150 €),
+3. czy **Family Suite Tirol** jest realnie wolna na 1–6.02 (silnik ją pokazuje, ale to ostatnie dni ferii w Wiedniu).
 
 ---
 
@@ -82,7 +113,7 @@ Te hotele pracują w rytmie sob–sob. Pięć nocy pon–sob trzeba negocjować 
 | Opcja | Cena 5 nocy HB (2+1) | Odległość od wyciągu | Uwagi |
 |---|---|---|---|
 | **Marcius, Nassfeld** | **≈ 1 935 €** | **80 m, ski-to-door** | dostępny, spa w cenie, 110 km |
-| Alphof, Alpbach | 2 618 € (2 356 € Genius) | 2,8 km do gondoli (skibus 5 min) | tuż nad budżetem |
+| Alphof, Alpbach | **2 153 €** bezpośrednio (Bergidyll) / 2 278 € (suite 2 sypialnie) | 2,8 km do gondoli (skibus 5 min) | w budżecie tylko przy rezerwacji bezpośredniej |
 | Wildschönau (Mitterhof / Bergkristall) | 2 820–2 900 € | 410 m / poza stokiem | drożej, bez przewagi |
 | Hochkönig | brak ofert | — | tylko mailowo lub inne daty |
 
@@ -127,13 +158,15 @@ Sprawdzone na mapach (OpenStreetMap + routing pieszy), nie tylko „w linii pros
 | **Mitterhof** (Niederau) | Markbachjochbahn | ~410 m (dane Booking, brak dokładnej lokalizacji w OSM) | przystanek w Niederau ~300 m |
 | **Bergkristall** (Oberau/Mühltal) | Schatzbergbahn Auffach | **2,9 km** — tylko skibusem | przystanek „Mühltal Färberwirt” 365 m |
 | **Sonnhof** (Mühlbach) | Saukarlift / Karbachalmbahn | Saukarlift ~1,2 km; Karbachalm tylko skibusem | przystanek „Mühlbach a.Hkg. Sonnhof” **30 m** |
-| **Alphof** (Alpbach) | Wiedersbergerhornbahn (gondola) | **2,8 km** — patrz niżej | przystanek „Böglerhof” 410 m → 5 min jazdy |
+| **Alphof** (Alpbach) | Wiedersbergerhornbahn (gondola) | **2,8 km** — patrz niżej | przystanek „Alphof” przy hotelu (kilka kursów rano) lub „Böglerhof” 410 m co 10–20 min → 5 min jazdy |
 
 ### Alphof w Alpbach — korekta odległości
 
 Booking podaje „1 200 stóp (365 m) od wyciągu”, ale to **nie jest gondola**. 270 m od hotelu jest **orczyk Böglerlift** (krótki wyciąg narciarski, nie gondola). Główna gondola **Wiedersbergerhornbahn jest 2,8 km dalej**, na drugim końcu wsi (Alpbach Dorf 486 → dolna stacja).
 
-**Jak się dostać:** przystanek **„Böglerhof” ok. 410 m** od hotelu (5 min pieszo, przy głównej drodze). Skibus/Regiobus w Alpbachtal dowozi z Dorf Alpbach do dolnej stacji w **ok. 5 minut**, a przejazd jest **bezpłatny z Alpbachtal Card** — hotel wydaje ją każdemu gościowi przy check-in. Samochodem 5–7 min; na miejscu są bezpłatne parkingi przy dolnej stacji.
+**Jak się dostać:** hotel nie kłamie w cenniku („GRATIS-SKIBUS direkt vor dem Hotel") — **zimowa linia 620W zatrzymuje się na przystanku „Alpbach Alphof" tuż przy budynku**. Ale to nie kurs co 5 minut: przy hotelu staje kilka razy rano (pierwsze kursy ok. 8:30–10:00) i pojedyncze po południu. Pełna linia 620W/620 odjeżdża z przystanku **„Böglerhof", 410 m** dalej (5 min pieszo) — tam autobus jedzie **co 10–20 min** do godz. ok. 10:00, potem przerwa i kursy od 13:10.
+
+Do dolnej stacji **ok. 5 minut jazdy**, przejazd **bezpłatny z Alpbachtal Card**, którą hotel wydaje przy check-in. Samochodem 5–7 min, bezpłatne parkingi przy dolnej stacji.
 
 To nie dyskwalifikuje hotelu, ale przy 13-latku i codziennym jeżdżeniu oznacza 2 × 5 min busa + dojście do przystanku (razem ok. 15 min w jedną stronę). W Niederau (Austria, Schneeberger) i w Maria Alm (Eder) gondola jest pod drzwiami.
 
