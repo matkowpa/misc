@@ -111,12 +111,38 @@ Dziecko 13 lat (rocznik 2013) liczone jest jako **dziecko** w obu ośrodkach (ro
 
 ---
 
-## Źródła
+## Linki do ofert
 
-- Cennik Alpenhotel Marcius 2026/27: <https://hotel-marcius.at/en/prices>
-- Alpenhotel Marcius na Booking: <https://www.booking.com/hotel/at/sonnleitn-hermagor.html>
-- Hotel Alphof Alpbach: <https://www.booking.com/hotel/at/alphof-alpbach.html>, <https://www.hotel-alphof.at/wellness.html>
+Wszystkie linki Booking.com otwierają od razu ofertę na **1–6.02.2027, 2 dorosłych + dziecko 13 lat, 5 nocy** (ceny w EUR). Linki „bezpośrednio” prowadzą do strony hotelu lub jego własnego silnika rezerwacji.
+
+### Nassfeld (rekomendacja)
+
+- **Alpenhotel Marcius ****** — [oferta na Booking.com](https://www.booking.com/hotel/at/sonnleitn-hermagor.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hotel-marcius.at](https://www.hotel-marcius.at/) · [rezerwacja online hotelu](https://www.hotel-marcius.at/en/booking/)
+
+### Alpbach / Ski Juwel
+
+- **Hotel Alphof ****** — [oferta na Booking.com](https://www.booking.com/hotel/at/alphof-alpbach.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hotel-alphof.at](https://www.hotel-alphof.at/) · [silnik rezerwacji hotelu](https://booking.hotel-alphof.at/)
+
+### Wildschönau / Niederau
+
+- **Hotel Sonnschein ****** — [oferta na Booking.com](https://www.booking.com/hotel/at/harmony-sonnschein.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hotel-sonnschein.com](https://www.hotel-sonnschein.com/) · [silnik rezerwacji hotelu](https://booking.hotel-sonnschein.com/)
+- **Hotel Schneeberger** — [oferta na Booking.com](https://www.booking.com/hotel/at/schneeberger.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hotel-schneeberger.at](https://www.hotel-schneeberger.at/)
+- **Hotel Austria** — [oferta na Booking.com](https://www.booking.com/hotel/at/austria-niederau.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hotel-austria.at](https://www.hotel-austria.at/)
+- **Der Wastlhof ****** — [oferta na Booking.com](https://www.booking.com/hotel/at/sport-und-vitalhotel-wastlhof.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hotelwastlhof.at](https://hotelwastlhof.at/)
+- **Hotel Mitterhof** — [oferta na Booking.com](https://www.booking.com/hotel/at/gasthof-pension-mitterhof.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: brak własnej strony, rezerwacja przez Wildschönau Tourismus](https://www.wildschoenau.com/de/urlaub-planen-buchen/unterkunft-buchen)
+- **Hotel Bergkristall ****** (Oberau) — [oferta na Booking.com](https://www.booking.com/hotel/at/bergkristall-wildschapnau.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hotel-bergkristall.info](https://www.hotel-bergkristall.info/)
+
+### Hochkönig / Maria Alm
+
+- **Hotel Lohningerhof** — [oferta na Booking.com](https://www.booking.com/hotel/at/lohningerhof.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: lohningerhof.at](https://www.lohningerhof.at/)
+- **Hotel Eder** — [oferta na Booking.com](https://www.booking.com/hotel/at/eder-das-steinerne-meer.en-gb.html?checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: hoteleder.com](https://www.hoteleder.com/) · [silnik rezerwacji hotelu](https://onepagebooking.com/hoteleder)
+- **Hotel Sonnhof** (Mühlbach) — [oferta na Booking.com](https://www.booking.com/searchresults.html?ss=Hotel+Sonnhof+M%C3%BChlbach+am+Hochk%C3%B6nig&checkin=2027-02-01&checkout=2027-02-06&group_adults=2&group_children=1&age=13&no_rooms=1&selected_currency=EUR) · [bezpośrednio: sonnhof-hochkoenig.com](https://www.sonnhof-hochkoenig.com/)
+
+---
+
+## Źródła danych
+
+- Cennik Alpenhotel Marcius 2026/27 (ceny i zniżki dla dzieci): <https://hotel-marcius.at/en/prices>
 - Skipassy Nassfeld: <https://www.nassfeld.at/de/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld/Skipasspreise/Tages-Mehrtageskarten>
-- Skipassy Ski Juwel: <https://skijuwel.com/de/winter/tickets-und-preise>
-- Hotele Wildschönau: <https://www.booking.com/hotel/at/harmony-sonnschein.html>, <https://www.booking.com/hotel/at/gasthof-pension-mitterhof.html>, <https://www.booking.com/hotel/at/bergkristall-wildschapnau.html>
-- Hotele Hochkönig: <https://www.booking.com/hotel/at/lohningerhof.html>, <https://www.booking.com/hotel/at/eder-das-steinerne-meer.html>
+- Skipassy Ski Juwel Alpbachtal-Wildschönau: <https://skijuwel.com/de/winter/tickets-und-preise>
+- Wellness Hotelu Alphof: <https://www.hotel-alphof.at/wellness.html>
