@@ -41,7 +41,7 @@ Klasyczny, rodzinny hotel 4* w wiosce Alpbach — uznawanej za jedną z najładn
 | Pokój | Metraż | Miejsca | Uwagi |
 |---|---|---|---|
 | Wohlfühlzimmer Alpbach | 23 m² | max 2 | standard, bez balkonu — **za mały dla 3 osób** |
-| Wohlfühlzimmer Fichtennestl | 28 m² | 2–3 | balkon, panorama |
+| Wohlfühlzimmer Fichtennestl | 28 m² | 2–3 (silnik 26/27; cennik 25/26 podawał max 2 — do potwierdzenia) | balkon, panorama |
 | Wohlfühlzimmer Bergidyll | — | 2–4 | taras z panoramą |
 | **Family Suite Tirol** | **40 m²** | **2–4** | **2 osobne sypialnie** (podwójne łóżko + rozkładana sofa), balkon/taras |
 | Junior Family Suite Schatzberg | — | 2–4 | jedna przestrzeń, bez drugiej sypialni |
