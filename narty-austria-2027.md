@@ -58,15 +58,17 @@ Silnik rezerwacyjny hotelu na 1–6.02.2027 daje pakiet **„TOP Winterangebot" 
 
 **Dziecko:** 13 lat mieści się w widełkach 5–14,9 lat → **−50 %** (przy 2 pełnopłatnych), czyli 79–89 €/noc zależnie od pokoju.
 
-**Razem dla 2 + 1 (5 nocy, Verwöhnpension, + kurtaksa 3,50 €/os./noc):**
+**Razem dla 2 + 1 (5 nocy, Verwöhnpension, + kurtaksa 3,50 €/os./noc — tylko dorośli, dziecko do 14 lat 0 €):**
 
 | Pokój | Bezpośrednio w hotelu | Booking.com |
 |---|---|---|
-| Fichtennestl (28 m²) | **≈ 2 028 €** | brak |
-| Bergidyll | **≈ 2 153 €** | 2 618 € (Genius: 2 356 €) |
-| **Family Suite Tirol (2 sypialnie)** | **≈ 2 278 €** | brak w ofercie |
+| Fichtennestl (28 m²) | **≈ 2 010 €** | brak |
+| Bergidyll | **≈ 2 135 €** | 2 618 € (Genius: 2 356 €) |
+| **Family Suite Tirol (2 sypialnie)** | **≈ 2 260 €** | brak w ofercie |
 
 **Wniosek:** bezpośrednio wychodzi **466 € taniej** niż cena standardowa na Booking (204 € taniej niż cena Genius), a **dwupokojowy apartament Family Suite Tirol kosztuje mniej niż pokój dwuosobowy na Booking** — i nadal mieści się w budżecie 2 500 €.
+
+**Warunki anulacji (taryfa FLEXIBEL w silniku hotelu):** bezpłatnie do **1.01.2027, 23:59**; od 2.01 (30 dni przed przyjazdem) — **70%** kosztów; od 25.01 (7 dni przed) — **90%**. Bez zadatku, karta tylko jako gwarancja. Dla porównania Booking: bezpłatnie do 4.01.2027, potem **100%** wartości. Ogólna strona „Stornobedingungen" mówi natomiast o opłacie administracyjnej **20 €** przy anulacji do miesiąca przed przyjazdem — przy rezerwacji warto poprosić mailem o potwierdzenie warunków z silnika („kostenlose Stornierung bis 01.01.2027").
 
 Rezerwacja bezpośrednia daje dodatkowo: **gratis garaż podziemny**, 1× masaż Hydrojet, klapki, early check-in, korzystanie z wellness w dniu przyjazdu i wyjazdu, upominek na wyjazd.
 
