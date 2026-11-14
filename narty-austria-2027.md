@@ -1,0 +1,122 @@
+# Narty w Austrii — 1–6 lutego 2027 (2 dorosłych + dziecko 13 lat)
+
+**Data analizy:** 14 listopada 2026
+**Założenia:** 5 nocy (pon 1.02 – sob 6.02.2027), 2 dorosłych + dziecko 13 lat, hotel z half board i strefą spa, maks. 1 km od wyciągu, budżet za hotel **≤ 2 500 €**, ośrodek z ok. 100 km tras i bez tłoku.
+
+---
+
+## Rekomendacja: Alpenhotel Marcius ****, Sonnenalpe Nassfeld
+
+Najlepszy stosunek ceny do warunków — ok. 800–1 000 € taniej niż porównywalne opcje w Tirolu i Salzburgerlandzie, przy najlepszym położeniu (ski-to-door).
+
+| Parametr | Wartość |
+|---|---|
+| Ośrodek | Nassfeld (Karyntia), **110 km tras**, 1 550–2 000 m |
+| Odległość od wyciągu | **80 m** (87 jardów), ski-to-door |
+| Spa | basen kryty, 2 sauny fińskie, łaźnia parowa — w cenie |
+| Wyżywienie | half board: bufet śniadaniowy + 4-daniowa kolacja (bufet) + sałatki |
+| Cena 5 nocy (2+1) | **1 890 €** (pokój Standard) / **2 025 €** (Komfort) |
+| Kurtaksa | 4,50 €/os./dzień (tylko dorośli) → +45 € |
+| **Razem** | **≈ 1 935 €** (Standard) / **≈ 2 070 €** (Komfort) |
+| Booking.com | 1 902 € na te daty — dostępność potwierdzona |
+
+**Wyliczenie (cennik hotelu, sezon 31.01–28.02.2027):**
+- dorośli: 140 €/os./noc × 2 × 5 = 1 400 €
+- dziecko 6–14 lat: −30% → 98 €/noc × 5 = 490 €
+- suma: 1 890 € + kurtaksa 45 € = **1 935 €**
+- pokój Komfort (150 €/os., dziecko 105 €/noc): 2 025 € + 45 € = **2 070 €**
+
+**Uwaga:** pokoje Standard mają ok. 20 m² — przy 13-latku warto dopłacić do Komfortu (ok. +135 € za cały pobyt).
+
+---
+
+## Alternatywa: Hotel Alphof ****, Alpbach (Tirol)
+
+Ładniejsza, klasyczna wioska i większy ośrodek, ale drożej i z mniejszą dostępnością.
+
+| Parametr | Wartość |
+|---|---|
+| Ośrodek | Ski Juwel Alpbachtal-Wildschönau, **114 km tras** (jeden skipass) |
+| Odległość od wyciągu | **365 m** (1 200 stóp) od gondoli w Alpbach |
+| Spa | basen kryty, sauna parowa, infrared, łóżko do masażu wodnego |
+| Wyżywienie | half board (śniadanie + kolacja) |
+| Cena 5 nocy (2+1) | **2 618 €** (na Booking z Genius: **2 356 €**) |
+
+Na 1–6.02 w Alpbach zostały dosłownie **4 obiekty z half board** — warto rezerwować szybko.
+
+---
+
+## Odrzucone po sprawdzeniu
+
+### Wildschönau / Niederau (Ski Juwel, 114 km) — taniej nie wychodzi
+
+Dobre hotele 4* z HB i spa przy wyciągu są zajęte lub sprzedają tylko tygodnie sob–sob:
+
+- **Hotel Sonnschein ****** — 230 m od wyciągu, 600 m² spa, HB → **brak dostępności** na 1–6.02
+- **Hotel Schneeberger** (naprzeciw wyciągu) → brak dostępności
+- **Hotel Austria**, **Hotel Wastlhof** → brak dostępności
+
+Co da się dostać:
+
+| Hotel | Położenie / spa | Cena 5 nocy z HB |
+|---|---|---|
+| Hotel Mitterhof, Niederau | 410 m od wyciągu, sauna, spa | 2 230 € + 337 € (HB) + 10% VAT ≈ **2 820 €** |
+| Hotel Bergkristall, Oberau | basen kryty, sauna, parowa; **nie przy wyciągu** (Mühltal) | 2 127 € (BB) + HB 38 €/os./noc → ≈ **2 900 €** |
+
+Ceny „od 93 €/os.” z ich stron dotyczą poza sezonem — w lutym to nie działa.
+
+### Hochkönig / Maria Alm (120 km) — najspokojniejszy, ale brak miejsc
+
+Najcichszy z trzech ośrodków (Königstour, 120 km, znacznie mniej ludzi niż Nassfeld), ale na 1–6.02 z HB praktycznie wszystko zajęte:
+
+- **Hotel Lohningerhof** (spa, ~350 m od Natrunbahn) → brak dostępności
+- **Hotel Eder** (ski-to-door, spa) → brak dostępności
+- **Sonnhof Mühlbach** → brak dostępności
+
+Te hotele pracują w rytmie sob–sob. Pięć nocy pon–sob trzeba negocjować mailowo/telefonicznie. Alternatywa: przesunięcie na 30.01–6.02 (7 nocy), ale wtedy raczej powyżej 2 500 €.
+
+---
+
+## Porównanie
+
+| Opcja | Cena 5 nocy HB (2+1) | Odległość od wyciągu | Uwagi |
+|---|---|---|---|
+| **Marcius, Nassfeld** | **≈ 1 935 €** | **80 m, ski-to-door** | dostępny, spa w cenie, 110 km |
+| Alphof, Alpbach | 2 618 € (2 356 € Genius) | 365 m | tuż nad budżetem |
+| Wildschönau (Mitterhof / Bergkristall) | 2 820–2 900 € | 410 m / poza stokiem | drożej, bez przewagi |
+| Hochkönig | brak ofert | — | tylko mailowo lub inne daty |
+
+---
+
+## Skipassy (5 dni, sezon główny)
+
+| Ośrodek | Dorosły | Młodzież | Dziecko | Razem 2+1 |
+|---|---|---|---|---|
+| Nassfeld | 336 € | 252 € | **168 €** | **840 €** |
+| Ski Juwel Alpbachtal-Wildschönau | 316,50 € | 253,50 € | **158,50 €** | **791,50 €** |
+
+Dziecko 13 lat (rocznik 2013) liczone jest jako **dziecko** w obu ośrodkach (roczniki 2011–2020).
+
+**Koszt całego wyjazdu (Nassfeld, wariant Standard):** 1 935 € hotel + 840 € skipassy = **≈ 2 775 €** + paliwo, winiety CZ/AT, kurtaksa wliczona.
+
+---
+
+## Uwagi praktyczne
+
+1. **Pięć nocy pon–sob to wąskie gardło.** Większość austriackich hoteli HB w lutym sprzedaje tygodnie sob–sob. Marcius sprzedaje krótsze pobyty — dlatego wygrywa również pod tym względem.
+2. **Rezerwować bezpośrednio w hotelu** (własny cennik + rezerwacja online, tel. +43 664 2445493) — na Bookingu dostępność jest ograniczona, a cena ta sama.
+3. Początek lutego to jeszcze nie szczyt (ferie DE/AT startują później), ale obłożenie na 2027 rok jest już wysokie.
+4. Dojazd z Warszawy: ok. 1 000–1 100 km (Czechy + Austria, winiety CZ/AT).
+5. Ceny mogą się zmienić — cennik hotelu na sezon 2026/27 obowiązuje na dzień analizy.
+
+---
+
+## Źródła
+
+- Cennik Alpenhotel Marcius 2026/27: <https://hotel-marcius.at/en/prices>
+- Alpenhotel Marcius na Booking: <https://www.booking.com/hotel/at/sonnleitn-hermagor.html>
+- Hotel Alphof Alpbach: <https://www.booking.com/hotel/at/alphof-alpbach.html>, <https://www.hotel-alphof.at/wellness.html>
+- Skipassy Nassfeld: <https://www.nassfeld.at/de/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld/Skipasspreise/Tages-Mehrtageskarten>
+- Skipassy Ski Juwel: <https://skijuwel.com/de/winter/tickets-und-preise>
+- Hotele Wildschönau: <https://www.booking.com/hotel/at/harmony-sonnschein.html>, <https://www.booking.com/hotel/at/gasthof-pension-mitterhof.html>, <https://www.booking.com/hotel/at/bergkristall-wildschapnau.html>
+- Hotele Hochkönig: <https://www.booking.com/hotel/at/lohningerhof.html>, <https://www.booking.com/hotel/at/eder-das-steinerne-meer.html>
