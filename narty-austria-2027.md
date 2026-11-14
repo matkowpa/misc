@@ -37,9 +37,9 @@ Najlepszy stosunek ceny do warunków — ok. 800–1 000 € taniej niż porówn
 | Parametr | Wartość |
 |---|---|
 | Ośrodek | Ski Juwel Alpbachtal-Wildschönau, **114 km tras** (jeden skipass) |
-| Odległość od wyciągu | **365 m** (1 200 stóp) od gondoli w Alpbach |
-| Spa | basen kryty, sauna parowa, infrared, łóżko do masażu wodnego |
-| Wyżywienie | half board (śniadanie + kolacja) |
+| Odległość od wyciągu | **2,8 km do gondoli Wiedersbergerhornbahn** — skibus ok. 5 min (przystanek 400 m od hotelu). 270 m jest tylko do orczyka Böglerlift (dlatego Booking pokazuje „365 m”) |
+| Spa | basen kryty (Grander), 2 strefy saun, łaźnia parowa, infrared, solanka, taras panoramiczny 360° — **bez basenu zewnętrznego** |
+| Wyżywienie | Verwöhnpension: śniadanie, podwieczorek, 5-daniowa kolacja z bufetem sałatek |
 | Cena 5 nocy (2+1) | **2 618 €** (na Booking z Genius: **2 356 €**) |
 
 Na 1–6.02 w Alpbach zostały dosłownie **4 obiekty z half board** — warto rezerwować szybko.
@@ -82,7 +82,7 @@ Te hotele pracują w rytmie sob–sob. Pięć nocy pon–sob trzeba negocjować 
 | Opcja | Cena 5 nocy HB (2+1) | Odległość od wyciągu | Uwagi |
 |---|---|---|---|
 | **Marcius, Nassfeld** | **≈ 1 935 €** | **80 m, ski-to-door** | dostępny, spa w cenie, 110 km |
-| Alphof, Alpbach | 2 618 € (2 356 € Genius) | 365 m | tuż nad budżetem |
+| Alphof, Alpbach | 2 618 € (2 356 € Genius) | 2,8 km do gondoli (skibus 5 min) | tuż nad budżetem |
 | Wildschönau (Mitterhof / Bergkristall) | 2 820–2 900 € | 410 m / poza stokiem | drożej, bez przewagi |
 | Hochkönig | brak ofert | — | tylko mailowo lub inne daty |
 
@@ -108,6 +108,52 @@ Dziecko 13 lat (rocznik 2013) liczone jest jako **dziecko** w obu ośrodkach (ro
 3. Początek lutego to jeszcze nie szczyt (ferie DE/AT startują później), ale obłożenie na 2027 rok jest już wysokie.
 4. Dojazd z Warszawy: ok. 1 000–1 100 km (Czechy + Austria, winiety CZ/AT).
 5. Ceny mogą się zmienić — cennik hotelu na sezon 2026/27 obowiązuje na dzień analizy.
+
+---
+
+## Dojazd do wyciągów — jak to wygląda w praktyce
+
+Sprawdzone na mapach (OpenStreetMap + routing pieszy), nie tylko „w linii prostej” jak podaje Booking. Odległości to trasa dojścia, nie odległość w powietrzu.
+
+| Hotel | Wyciąg / gondola | Dojście | Skibus |
+|---|---|---|---|
+| **Marcius** (Nassfeld) | stacje na Sonnenalpe | **125 m, ski-to-door** | niepotrzebny |
+| **Eder** (Maria Alm) | Natrunbahn | **190 m** (2–3 min) | niepotrzebny |
+| **Lohningerhof** (Maria Alm) | Natrunbahn | **940 m** (12 min) lub skibus 250 m | przystanek „Maria Alm Billa” 250 m → 2 min |
+| **Hotel Austria** (Niederau) | Markbachjochbahn | **150 m** | niepotrzebny |
+| **Schneeberger** (Niederau) | Markbachjochbahn | **430 m** (6 min) | przystanek „Niederau Lanerköpfl” 190 m |
+| **Sonnschein** (Niederau) | Markbachjochbahn | **540 m** (7 min) | przystanek „Niederau Berglift” 300 m |
+| **Wastlhof** (Niederau) | Markbachjochbahn | **730 m** (10 min) | przystanek „Niederau Lanerköpfl” 160 m |
+| **Mitterhof** (Niederau) | Markbachjochbahn | ~410 m (dane Booking, brak dokładnej lokalizacji w OSM) | przystanek w Niederau ~300 m |
+| **Bergkristall** (Oberau/Mühltal) | Schatzbergbahn Auffach | **2,9 km** — tylko skibusem | przystanek „Mühltal Färberwirt” 365 m |
+| **Sonnhof** (Mühlbach) | Saukarlift / Karbachalmbahn | Saukarlift ~1,2 km; Karbachalm tylko skibusem | przystanek „Mühlbach a.Hkg. Sonnhof” **30 m** |
+| **Alphof** (Alpbach) | Wiedersbergerhornbahn (gondola) | **2,8 km** — patrz niżej | przystanek „Böglerhof” 410 m → 5 min jazdy |
+
+### Alphof w Alpbach — korekta odległości
+
+Booking podaje „1 200 stóp (365 m) od wyciągu”, ale to **nie jest gondola**. 270 m od hotelu jest **orczyk Böglerlift** (krótki wyciąg narciarski, nie gondola). Główna gondola **Wiedersbergerhornbahn jest 2,8 km dalej**, na drugim końcu wsi (Alpbach Dorf 486 → dolna stacja).
+
+**Jak się dostać:** przystanek **„Böglerhof” ok. 410 m** od hotelu (5 min pieszo, przy głównej drodze). Skibus/Regiobus w Alpbachtal dowozi z Dorf Alpbach do dolnej stacji w **ok. 5 minut**, a przejazd jest **bezpłatny z Alpbachtal Card** — hotel wydaje ją każdemu gościowi przy check-in. Samochodem 5–7 min; na miejscu są bezpłatne parkingi przy dolnej stacji.
+
+To nie dyskwalifikuje hotelu, ale przy 13-latku i codziennym jeżdżeniu oznacza 2 × 5 min busa + dojście do przystanku (razem ok. 15 min w jedną stronę). W Niederau (Austria, Schneeberger) i w Maria Alm (Eder) gondola jest pod drzwiami.
+
+### Strefa spa w Alphofie
+
+- **Basen kryty** (Erlebnishallenbad) na „leczącej” wodzie Grander: prąd przeciwstawny, whirlpool, dysze, bąble w dnie, podgrzewane ławki
+- **Dwie strefy saun:** rodzinna (Stubensauna, Biosauna, łaźnia parowa eukaliptusowa, infrared) oraz „Tiroler Alpensauna” (sauna z limbą, sauna ziołowa)
+- **Nowość:** łaźnia parowa aromatyczna + salon solankowy z leżankami infrared
+- „Faulenzerstube” z łóżkami wodnymi i leżankami wiszącymi
+- **Taras panoramiczny na dachu 360°** — ale to taras, nie basen
+- **Basenu zewnętrznego (podgrzewanego) NIE MA** — pula jest wyłącznie w środku. Jeśli zewnętrzny basen w zimie jest warunkiem, Alphof odpada.
+
+Dla porównania: **Marcius** ma basen kryty + 2 sauny fińskie + łaźnię parową; **Sonnschein** ma 2 baseny kryte, basen w ogrodzie (letni) i 600 m² spa.
+
+### Skibusy — zasady
+
+- **Alpbachtal:** skibusy i Regiobus bezpłatne z **Alpbachtal Card** (gość dostaje ją w hotelu, ważna od pierwszej nocy)
+- **Hochkönig (Maria Alm):** bezpłatne linie 620/621 oraz shuttle Abergbahn – Maria Alm Dorfzentrum – Natrunbahn, **z ważnym skipassem** lub Guest Mobility Ticket, w godz. 8:00–18:00
+- **Wildschönau:** skibus łączy Niederau – Oberau – Auffach (przy Verbindungsbahn do Alpbach)
+- **Nassfeld:** Marcius stoi przy stokach, żaden bus nie jest potrzebny
 
 ---
 
